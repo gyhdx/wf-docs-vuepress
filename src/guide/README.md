@@ -1,6 +1,10 @@
 ---
 title: 指南
-icon: lightbulb
+icon: book
+
+index: false
+dir:
+order: 1
 ---
 
 ## 功能亮点

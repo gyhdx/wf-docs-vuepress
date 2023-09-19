@@ -1,6 +1,10 @@
 ---
 title: Bar 功能
 icon: lightbulb
+
+index: false
+dir:
+order: 1
 ---
 
 ## 介绍

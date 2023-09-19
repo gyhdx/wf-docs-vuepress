@@ -2,10 +2,10 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/",
+  // base: "/",
 
   lang: "zh-CN",
-  title: "文档演示",
+  title: "wf",
   description: "vuepress-theme-hope 的文档演示",
 
   theme,
